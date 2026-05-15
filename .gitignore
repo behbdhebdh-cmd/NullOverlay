@@ -1,0 +1,29 @@
+# Build outputs
+build/
+out/
+cmake-build-*/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/compile_commands.json
+**/build.ninja
+**/*.obj
+**/*.pdb
+**/*.ilk
+
+# Visual Studio / IDE files
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.vcxproj.user
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
